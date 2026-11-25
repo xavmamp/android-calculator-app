@@ -2,10 +2,6 @@
 
 A calculator app for Android built with Kotlin and Jetpack Compose, created for the Mobile Development course at WSB Merito University.
 
-## Screenshots
-
-![Calculator screen](screenshots/calculator.png)
-
 ## Features
 
 - Two number inputs with a numeric keyboard
