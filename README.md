@@ -34,4 +34,4 @@ A calculator app for Android built with Kotlin and Jetpack Compose, created for 
 
 ## Author
 
-Xavier Mampouya – [GitHub](https://github.com/YOUR-USERNAME)
+Xavier Mampouya – [GitHub](https://github.com/xavmamp)
